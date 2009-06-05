@@ -1,0 +1,5 @@
+ReadMe Left 4 Gmod SVN Revision 8- Notes:
+Here are the basic facts here:
+-THIS GAME IS NOT NEAR COMPLETION!
+-THIS GAME WILL NOT PROPERLY WORK!
+-THIS GAME IS A PRE-ALPHA SVN RELEASE!
