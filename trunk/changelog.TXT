@@ -16,4 +16,10 @@ SVN Revision 4 - Mapper Bot
 --------------------------
 -Fixed up the changelog file a bit. (This one XD)
 -Added l4gmodsvn1plan.zip File for reference.
+--------------------------
+June 5, 2009
+SVN Revision 5 - Mapper Bot
+--------------------------
+-Fixed some careless mistakes in uploading files to SVN.
+-Added main "left4gmod" folders.
 
