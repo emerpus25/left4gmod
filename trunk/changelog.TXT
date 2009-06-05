@@ -70,5 +70,20 @@ SVN Revision 12 - Mapper Bot
 -Added Basic Script Files.
 -Updated "README!.txt".
 --------------------------
+June 5, 2009
+SVN Revision 13 - Mapper Bot
+--------------------------
+-Added "server_i486.so".
+-Added "scene.cache".
+-Added "MasterServers.vdf".
+-Modified "rev.ini".
+-Added "shader" Folders in "hl2" Folder. (Folder Plan)
+-Added some files in "expression" folder.
+-Added "modelsounds.cache".
+-Added other files in left4gmod folder.
+-Added "scenes.image".
+-Added files in Particles folder.
+-Added soundcache folder in Maps folder.
+--------------------------
 
 
