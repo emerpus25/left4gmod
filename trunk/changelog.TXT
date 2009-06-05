@@ -22,4 +22,15 @@ SVN Revision 5 - Mapper Bot
 --------------------------
 -Fixed some careless mistakes in uploading files to SVN.
 -Added main "left4gmod" folders.
+--------------------------
+June 5, 2009
+SVN Revision 6 - Mapper Bot
+--------------------------
+-Added experimental "LUA" files.
+-Added client and server dlls. (soon going to add server_i486.so file)
+-Added Things To Do.
+-Added Backup Files for backed up original core engine files.
+-Added Modified Engine Files.
+-Added Modified GameInfo file.
+--------------------------
 
