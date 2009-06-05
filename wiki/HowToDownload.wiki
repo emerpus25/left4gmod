@@ -1,7 +1,7 @@
 #summary How to download the latest L4G SVN.
 #labels Featured,Phase-Deploy
 
-*NOTE*: You must have TortoiseSVN installed.
+*NOTE*: You must have TortoiseSVN installed before proceeding with this tutorial.
 *INSTRUCTIONS*:
 1. Right click on whatever drive your installing it to and click "SVN Checkout...".
 2. Use this link for the URL of repository unless you are a developer:
