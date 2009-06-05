@@ -2,3 +2,4 @@
 -Make [L4G] Developer/Other Accounts.
 -Decide which steam_appid to use, 500 or 218? (500 is Left 4 Dead and 218 is Garry's Mod)
 -Make widescreen version of background.vtf file (background01_widescreen)
+-Modify left4gmod icon file again.

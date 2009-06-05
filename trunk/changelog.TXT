@@ -53,5 +53,15 @@ SVN Revision 10 - Mapper Bot
 --------------------------
 -Added background and loading material files. (Still missing widescreen)
 --------------------------
+June 5, 2009
+SVN Revision 11 - Mapper Bot
+--------------------------
+-Modified Things To Do.
+-Properly sorted material files to the "console" folder under "materials".
+-Added "steam.inf".
+-Modified "README!.txt".
+-Added more of the "hl2" folder plan.
+-Added "l4gmodsvn2plan.zip". (Updated Folder Plan)
+--------------------------
 
 
