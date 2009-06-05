@@ -1,0 +1,7 @@
+June 4, 2009
+SVN Revision 1
+--------------------------
+-Part of the backbone of the engine (bin dll files).
+-Planned out Project (empty folders).
+-Changelog and Readme.
+-New Early Alpha Icon (Changed icon of EXE)
