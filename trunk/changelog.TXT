@@ -43,4 +43,10 @@ SVN Revision 8 - Mapper Bot
 --------------------------
 -Modified Readme file to explain the truth.(the game is not near to being ready :()
 --------------------------
+June 5, 2009
+SVN Revision 9 - Mapper Bot
+--------------------------
+-Modified Things To Do.
+--------------------------
+
 
