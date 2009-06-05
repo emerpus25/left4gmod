@@ -1,0 +1,13 @@
+#summary How to download the latest L4G SVN.
+#labels Featured,Phase-Deploy
+
+*NOTE*: You must have TortoiseSVN installed.
+*INSTRUCTIONS*:
+1. Right click on whatever drive your installing it to and click "SVN Checkout...".
+2. Use this link for the URL of repository unless you are a developer:
+http://left4gmod.googlecode.com/svn/trunk/
+If you are a developer, use this URL:
+https://left4gmod.googlecode.com/svn/trunk/
+If you are a developer and use this link it will ask for authentication, type in your Google Username you have registered in this project and use this link for your password:
+http://code.google.com/hosting/settings
+Make sure you are logged in to your google account before you follow the link!
