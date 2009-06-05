@@ -1,0 +1,30 @@
+"Configs"
+{
+	"Games"
+	{
+		"Left 4 Dead"
+		{
+			"GameDir"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\left4dead"
+			"Hammer"
+			{
+				"GameData0"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\bin\left4dead.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\left4dead.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_survivor_position"
+				"BSP"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\bin\vbsp.exe"
+				"Vis"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\bin\vvis.exe"
+				"Light"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\bin\vrad.exe"
+				"GameExeDir"		"d:\program files (x86)\steam\steamapps\common\left 4 dead"
+				"MapDir"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\sdk_content\mapsrc"
+				"BSPDir"		"d:\program files (x86)\steam\steamapps\common\left 4 dead\left4dead\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+	}
+	"SDKVersion"		"4"
+}

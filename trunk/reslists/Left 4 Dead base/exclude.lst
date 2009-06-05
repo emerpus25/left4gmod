@@ -1,0 +1,14 @@
+reslists
+*.vtf
+*.sw.vtx
+*.jpg
+*.dx80.vtx
+left4dead\resource\optionssubmouse.res
+left4dead\resource\ui
+left4dead\cfg\user_default.scr
+left4dead\cfg\config_default.cfg
+left4dead\classes
+left4dead\maps\graphs\cloak.ain
+left4dead\media
+left4dead\reslists
+left4dead\resource\*.dat

@@ -1,5 +1,10 @@
 June 4, 2009
-SVN Revision 1
+SVN Revision 2
+--------------------------
+Had Issues lol.
+
+
+SVN Revision 3
 --------------------------
 -Part of the backbone of the engine (bin dll files).
 -Planned out Project (empty folders).
