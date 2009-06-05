@@ -48,5 +48,10 @@ SVN Revision 9 - Mapper Bot
 --------------------------
 -Modified Things To Do.
 --------------------------
+June 5, 2009
+SVN Revision 10 - Mapper Bot
+--------------------------
+-Added background and loading material files. (Still missing widescreen)
+--------------------------
 
 
