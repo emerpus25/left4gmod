@@ -33,4 +33,9 @@ SVN Revision 6 - Mapper Bot
 -Added Modified Engine Files.
 -Added Modified GameInfo file.
 --------------------------
+June 5, 2009
+SVN Revision 7 - Mapper Bot
+--------------------------
+-Added more non-steam files. (ones that didn't quite make it in the last revision)
+--------------------------
 
