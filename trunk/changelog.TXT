@@ -1,12 +1,19 @@
-June 4, 2009
+June 4, 2009 - SRDDonkey
 SVN Revision 2
 --------------------------
 Had Issues lol.
-
-
-SVN Revision 3
+--------------------------
+June 5, 2009
+SVN Revision 3 - Mapper Bot
 --------------------------
 -Part of the backbone of the engine (bin dll files).
 -Planned out Project (empty folders).
 -Changelog and Readme.
 -New Early Alpha Icon (Changed icon of EXE)
+--------------------------
+June 5, 2009
+SVN Revision 4 - Mapper Bot
+--------------------------
+-Fixed up the changelog file a bit. (This one XD)
+-Added l4gmodsvn1plan.zip File for reference.
+
