@@ -63,5 +63,12 @@ SVN Revision 11 - Mapper Bot
 -Added more of the "hl2" folder plan.
 -Added "l4gmodsvn2plan.zip". (Updated Folder Plan)
 --------------------------
+June 5, 2009
+SVN Revision 12 - Mapper Bot
+--------------------------
+-Added "POSTERRORSINHERE!.txt".
+-Added Basic Script Files.
+-Updated "README!.txt".
+--------------------------
 
 
