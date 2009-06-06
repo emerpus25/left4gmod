@@ -1,0 +1,40 @@
+"Resource/UI/DropDownLighthouseHoldoutCoop.res"
+{
+	"PnlBackground"
+	{
+		"ControlName"		"Panel"
+		"fieldName"			"PnlBackground"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"-1"
+		"wide"				"156"
+		"tall"				"30"
+		"visible"			"1"
+		"enabled"			"1"
+		"paintbackground"	"1"
+		"paintborder"		"1"
+	}
+
+	"BtnLighthouse"
+	{
+		"ControlName"			"L4D360HybridButton"
+		"fieldName"				"BtnLighthouse"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"150"
+		"tall"					"20"
+		"autoResize"			"1"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"wrap"					"1"
+		"navUp"					"BtnLighthouse"
+		"navDown"				"BtnLighthouse"
+		"labelText"				"#L4D360UI_Holdout_Chapter_Lighthouse"
+		"tooltiptext"			"#L4D360UI_Holdout_Chapter_Tooltip_Lighthouse"
+		"disabled_tooltiptext"	"#L4D360UI_Holdout_Chapter_Tooltip_Lighthouse_Disabled"
+		"style"					"FlyoutMenuButton"
+		"command"				"#L4D360UI_Holdout_Chapter_Lighthouse"
+	}	
+}

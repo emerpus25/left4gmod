@@ -85,5 +85,18 @@ SVN Revision 13 - Mapper Bot
 -Added files in Particles folder.
 -Added soundcache folder in Maps folder.
 --------------------------
+June 5, 2009
+SVN Revision 14 - SRDDonkey,companionandreaper
+--------------------------
+-Added files in scripts folder.
+-Added files in resource folder.
+-Added material files in materials folder.
+-Added shader files in hl2 folder.
+-Modified "POSTERRORSINHERE!.txt".
+-Modified "README!.txt".
+-Modified Things To Do.
+-Added experimental lua_shared.dll in left4gmod bin folder.
+-Removed "l4gmodsvn1plan.zip"(Outdated).
+--------------------------
 
 

@@ -7,14 +7,17 @@ companionandreaper     06/05/09           11           BUG           Crash on st
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 EXAMPLE ABOVE.
 !!!PLEASE REMEMBER TO NOTE CHANGES IN THIS FILE IN THE CHANGELOG!!!
+REMEMBER: YOUR NAME IS YOUR GOOGLE ACCOUNTS USERNAME.
 
-      NAME            CRASH DATE      SVN Revision      Status                       DETAILS                                    
+      NAME               DATE        SVN Revision         Status                                        DETAILS                                    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SRDDonkey              06/05/09           11         RESOLVED in Rev.12              Crash on startup: Engine Error - NO FILES!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-companionandreaper     06/05/09           12             BUG                         Crash on startup: Engine Error - serverGameDLL -> DLLInit() failed.
+companionandreaper     06/05/09           12         RESOLVED in Rev.14              Crash on startup: Engine Error - serverGameDLL -> DLLInit() failed.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
-
+companionandreaper     06/05/09           14               BUG                       Missing materials in Server Browser.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+           
 
 
 
