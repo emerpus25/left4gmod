@@ -3,4 +3,5 @@
 -Decide which steam_appid to use, 500 or 218? (500 is Left 4 Dead and 218 is Garry's Mod)
 -Make widescreen version of background.vtf file (background01_widescreen)
 -Modify left4gmod icon file again.
--Fix Server Browser Materials in Revision 15.
+-Fix Server Browser Materials in Revision 14. (DONE!)
+-Modify in-game background to contain new l4gmod logo.

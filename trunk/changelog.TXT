@@ -86,7 +86,7 @@ SVN Revision 13 - Mapper Bot
 -Added soundcache folder in Maps folder.
 --------------------------
 June 5, 2009
-SVN Revision 14 - SRDDonkey,companionandreaper
+SVN Revision 14 - SRDDonkey,Mapper Bot
 --------------------------
 -Added files in scripts folder.
 -Added files in resource folder.
@@ -97,6 +97,19 @@ SVN Revision 14 - SRDDonkey,companionandreaper
 -Modified Things To Do.
 -Added experimental lua_shared.dll in left4gmod bin folder.
 -Removed "l4gmodsvn1plan.zip"(Outdated).
+--------------------------
+June 5, 2009
+SVN Revision 18 - SRDDonkey
+--------------------------
+-Removed l4gmodsvn1plan since it didn't remove it automatically.
+--------------------------
+June 5, 2009
+SVN Revision 19 - SRDDonkey
+--------------------------
+-More issues, it appears it skipped to Revision 17, lol.
+-Fixed Missing Server Browser Materials.
+-Modified README.
+-Modified POSTERRORSINHERE.
 --------------------------
 
 

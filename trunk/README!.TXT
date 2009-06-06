@@ -14,3 +14,6 @@ The Game WILL Crash and Generate these files:
 -_master.cache (appears when the game has loaded, not sure what it does)
 !!!PLEASE DELETE THESE FILES BEFORE COMMITING AN SVN CHANGE OR NEW REVISION!!!
 !!!PLEASE REMEMBER TO NOTE CHANGES IN THIS FILE IN THE CHANGELOG!!!
+
+Don't be confused if it says Revision 19, that is correct. We don't know why it
+skipped all the revisions.
