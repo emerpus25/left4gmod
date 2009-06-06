@@ -1,0 +1,36 @@
+***  Installation Started 06/05/2009 23:24  ***
+Title: Half-Life Dedicated Server Update Tool
+Source: C:\Users\HP-PC\Downloads\hldsupdatetool.exe | 03-26-2009 | 16:35:02 | 703533
+Made Dir: E:\srcdsl4d
+File Copy: E:\srcdsl4d\UNWISE.EXE | 07-26-2002 | 17:02:06 | | 153088 | 5be5019b
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Half-Life Dedicated Server Update Tool
+RegDB Val: Half-Life Dedicated Server Update Tool
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Half-Life Dedicated Server Update Tool
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Half-Life Dedicated Server Update Tool
+RegDB Val: E:\srcdsl4d\UNWISE.EXE E:\srcdsl4d\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: E:\srcds\UNWISE.EXE E:\srcds\INSTALL.LOG
+File Copy: E:\srcdsl4d\HldsUpdateTool.exe | 05-09-2005 | 11:03:44 | 1.0.0.0 | 1155072 | 92110049
+File Copy: E:\srcdsl4d\hldsupdatetool_readme.txt | 04-07-2005 | 13:27:50 | | 3429 | ef5db860
+File Tree: E:\srcdsl4d\*.*
+RegDB Key: Software
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Valve\HLServer
+RegDB Val: E:\srcdsl4d
+RegDB Name: InstallPath
+RegDB Root: 1
+RegDB Old: E:\srcds
+RegDB Key: Software\Valve\HLServer
+RegDB Val: Half-Life Dedicated Server
+RegDB Name: Full Name
+RegDB Root: 1
+RegDB Old: Half-Life Dedicated Server
+RegDB Key: Software\Valve\HLServer
+RegDB Val: 1
+RegDB Name: Region
+RegDB Root: 1
+RegDB Old: 1

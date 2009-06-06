@@ -1,0 +1,5 @@
+June 5, 2009 - SRDDonkey
+SVN Revision 23
+--------------------------
+-Added Basic srcds files.
+--------------------------
