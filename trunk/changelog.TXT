@@ -130,5 +130,12 @@ SVN Revision 24 - SRDDonkey
 -Added Missing files in cfg folder.
 -Alot of other changes and additions I can't think of, Major Update!
 --------------------------
+June 6, 2009
+SVN Revision 26 - SRDDonkey
+--------------------------
+-Fixed "missing white.vtf" Bug.
+-Fixed "EOF KEYVALUE ERROR IN RadialMenu.txt".
+-Added "test" Map.
+--------------------------
 
 
