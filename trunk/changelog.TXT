@@ -137,5 +137,10 @@ SVN Revision 26 - SRDDonkey
 -Fixed "EOF KEYVALUE ERROR IN RadialMenu.txt".
 -Added "test" Map.
 --------------------------
+June 6, 2009
+SVN Revision 27 - SRDDonkey
+--------------------------
+-Added "error.mdl" in models folder.
+--------------------------
 
 
