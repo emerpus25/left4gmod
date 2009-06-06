@@ -115,5 +115,10 @@ June 5, 2009
 SVN Revision 20 - SRDDonkey
 --------------------------
 -Updated Error Log.
+-Added How To Change your Player Name and Username.
+-Added more materials in materials folder.
+-Removed "POSTERRORSINHERE!.txt". (Please post bugs at the left 4 gmod project website)
+-Modified Master Server IP's.
+--------------------------
 
 

@@ -1,0 +1,6 @@
+1. Open up rev.ini.
+2. Scroll down to find "SteamUser".
+3. Replace the input next to it (revCrew) to whatever you want your username to be.
+4. Scroll down to "PlayerName".
+5. Replace the input next to it (REVOLUTiON) to whatever you want your player name to be.
+6. Save it.
