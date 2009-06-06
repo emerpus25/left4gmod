@@ -16,5 +16,5 @@ The Game WILL Crash and Generate these files:
 !!!PLEASE DELETE THESE FILES BEFORE COMMITING AN SVN CHANGE OR NEW REVISION!!!
 !!!PLEASE REMEMBER TO NOTE CHANGES IN THIS FILE IN THE CHANGELOG!!!
 
-Don't be confused if it says Revision 19, that is correct. We don't know why it
-skipped all the revisions.
+Don't be confused if it skip revisions on the changelog, the skipped revisions
+are the dedicated server revisions.

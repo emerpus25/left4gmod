@@ -1,0 +1,625 @@
+"RadialMenu"
+{
+	//--------------------------------------------------------------
+	"Orders,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize smartlook"
+			"text"		"#L4D_rosetta_look"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerMoveOn"
+			"text"		"#L4D_rosetta_letsgo"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerLeadOn"
+			"text"		"#L4D_rosetta_youtakelead"
+		}	
+		"East"
+		{
+			"command"	"vocalize PlayerHurryUp"
+			"text"		"#L4D_rosetta_hurry"
+		}	
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerNiceJob"
+			"text"		"#L4D_rosetta_nicejob"
+		}	
+		"South"
+		{
+			"command"	"vocalize PlayerWaitHere"
+			"text"		"#L4D_rosetta_waithere"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerAreaClear"
+			"text"		"#L4D_rosetta_clear"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerCoverMe"
+			"text"		"#L4D_rosetta_coverme"
+		}	
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerImWithYou"
+			"text"		"#L4D_rosetta_withyou"
+		}	
+	}
+
+	//--------------------------------------------------------------
+	"QA,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerAskReady"
+			"text"		"#L4D_rosetta_ready"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerLaugh"
+			"text"		"#L4D_rosetta_laugh"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerWarnCareful"
+			"text"		"#L4D_rosetta_becareful"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerNegative"
+			"text"		"#L4D_rosetta_negative"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerNo"
+			"text"		"#L4D_rosetta_no"
+		}
+		"South"
+		{
+			"command"	"vocalize PlayerSorry"
+			"text"		"#L4D_rosetta_sorry"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerYes"
+			"text"		"#L4D_rosetta_yes"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerHurrah"
+			"text"		"#L4D_rosetta_hurrah"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerThanks"
+			"text"		"#L4D_rosetta_thankyou"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"Orders,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"label"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"QA,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"text"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Alerts,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"text"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"BarricadeBuilder,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_fortifications/sandbags_corner2.mdl"
+			"text"		"Sandbags Corner 1"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_furniture/bathtub1.mdl"
+			"text"		"Bathtub"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props_junk/dumpster.mdl"
+			"text"		"Dumpster"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_cemetery/cemetery_column.mdl"
+			"text"		"Column"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_unique/guncabinet01_main.mdl"
+			"text"		"Gun Cabinet"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/rope_bridge.mdl"
+			"text"		"Rope Bridge"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_exteriors/wood_stairs_120.mdl"
+			"text"		"Wooden Stairs"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_fortifications/sandbags_line2.mdl"
+			"text"		"Sandbags Line 1"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_street/phonepole1_tall.mdl"
+			"text"		"Phone pole"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_junk/barrel_fire.mdl"
+
+			"text"		"Barrel fire"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props_equipment/scaffolding.mdl"
+			"text"		"Scaffolding"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_industrial/oil_pipes.mdl"
+			"text"		"Pipes"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade.mdl"
+			"text"		"Police Barricade (1)"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_fortifications/fencesmash.mdl"
+			"text"		"Fence"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_industrial/wire_spool_01.mdl"
+			"text"		"Wire Spool"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/atm01.mdl"
+			"text"		"Atm"
+		}
+	}
+
+
+
+//--------------------------------------------------------------
+	"VehiclesBuilder,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_vehicles/ambulance.mdl"
+			"text"		"Ambulance"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_vehicles/airport_fuel_truck.mdl"
+			"text"		"Fuel Truck"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props_vehicles/army_truck.mdl"
+			"text"		"Army Truck"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_vehicles/cara_82hatchback.mdl"
+			"text"		"Hatchback car"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_vehicles/church_bus01.mdl"
+			"text"		"Church bus"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_vehicles/semi_trailer.mdl"
+			"text"		"Trailer"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_vehicles/semi_truck"
+			"text"		"Truck"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_vehicles/bus01.mdl"
+			"text"		"Bus"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder3,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_unique/generator_switch_01.mdl"
+			"text"		"Generator Switcher"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props/terror/hamradio.mdl"
+			"text"		"Radio"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props/terror/ammo_stack.mdl"
+			"text"		"Ammo Spawn 1"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_junk/trashcluster01b.mdl"
+			"text"		"Junk"
+		}
+		"South"
+		{
+			"command"	"prop_physics_create props_junk/wood_crate001a_damagedmax.mdl"
+			"text"		"1 Box"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_physics_create props_junk/wood_crate002a.mdl"
+			"text"		"2 Box"
+		}
+		"West"
+		{
+			"command"	"prop_physics_create props_junk/wood_pallet001a.mdl"
+			"text"		"Pallet"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_junk/trashdumpster02.mdl"
+			"text"		"Big Dumpster"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder32,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_doors/checkpoint_door_01.mdl"
+			"text"		"Checkpoint Door"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create extras/info_speech.mdl"
+			"text"		"Commentary"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props_doors/doorfreezer01.mdl"
+			"text"		"Unbreakable Door"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_urban/fire_escape_wide_upper.mdl"
+			"text"		"Stairs"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_interiors/elevator_panel.mdl"
+			"text"		"Elevator Panel"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_office/desk_01.mdl"
+			"text"		"Desk"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create hybridphysx/animated_construction_lift.mdl"
+			"text"		"Lift"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_office/vending_machine01.mdl"
+			"text"		"Vending Machine"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder4,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade2.mdl"
+			"text"		"Police Barricade (3)"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade3.mdl"
+			"text"		"Police Barricade (6)"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade4.mdl"
+			"text"		"Police Barricade (12)"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade_368in.mdl"
+			"text"		"Police Barricade (8)"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_street/police_barricade_496in.mdl"
+			"text"		"Police Barricade (10)"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/generator_short.mdl"
+			"text"		"Short Generator"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_unique/hospital05_rooftop_stair01.mdl"
+			"text"		"Rooftops Stairs 1"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/hospital05_rooftop_stair02.mdl"
+			"text"		"Rooftops Stairs 2"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder42,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_trainstation/train003.mdl"
+			"text"		"Train"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_unique/wooden_barricade.mdl"
+			"text"		"Wooden Barricade (Not Breaked)"
+		}
+		"East"
+		{
+			"command"	"prop_physics_create props_canal/boat001a.mdl"
+			"text"		"Breaked Boat"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_interiors/gun_cabinet.mdl"
+			"text"		"Wooden Gun Cabinet"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_interiors/medicalcabinet02.mdl"
+			"text"		"Medical Cabinet"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_fortifications/sandbags_corner3.mdl"
+			"text"		"Sandbags Corner 2"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_unique/wooden_barricade_break2.mdl"
+			"text"		"Wooden Barricade (Break 2)"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_exteriors/sandbags_curved.mdl"
+			"text"		"Sandbags Corner 3"
+		}
+	}
+
+//--------------------------------------------------------------
+	"BarricadeBuilder43,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_exteriors/sandbags_straight.mdl"
+			"text"		"Sandbags Line 2"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_dynamic_create props_c17/concrete_barrier001a.mdl"
+			"text"		"Concrete Barrier"
+		}
+		"East"
+		{
+			"command"	"prop_dynamic_create props/de_nuke/truck_nuke.mdl"
+			"text"		"Open Truck"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props_vehicles/tractor01.mdl"
+			"text"		"Tractor"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props_vehicles/tanker001a.mdl"
+			"text"		"Breaked Tanker"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/wooden_barricade_break3.mdl"
+			"text"		"Wooden Barricade (Full Breaked)"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props_vehicles/c130.mdl"
+			"text"		"Airplane"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props_vehicles/airport_baggage_cart2.mdl"
+			"text"		"Airport Baggage"
+		}
+	}
+
+
+//--------------------------------------------------------------
+	"BarricadeBuilder5,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"cancel"
+			"text"		"CANCEL"
+		}
+		"North"
+		{
+			"command"	"prop_dynamic_create props_fortifications\fortification_indoor_01.mdl"
+			"text"		"Minigun Barricade"
+		}
+		"NorthEast"
+		{
+			"command"	"prop_physics_create props_equipment\gas_pump_nodebris.mdl"
+			"text"		"Gas Pump"
+		}
+		"East"
+		{
+			"command"	"prop_physics_create props_unique\wooden_barricade_gascans.mdl"
+			"text"		"Gascans"
+		}
+		"SouthEast"
+		{
+			"command"	"prop_dynamic_create props/cs_assault/box_stack1.mdl"
+			"text"		"Stacked Boxes 1"
+		}
+		"South"
+		{
+			"command"	"prop_dynamic_create props/cs_assault/box_stack2.mdl"
+			"text"		"Stacked Boxes 2"
+		}
+		"SouthWest"
+		{
+			"command"	"prop_dynamic_create props_unique/airport/temp_barricade.mdl"
+			"text"		"Temp Barricade"
+		}
+		"West"
+		{
+			"command"	"prop_dynamic_create props/de_nuke/cinderblock_stack.mdl"
+			"text"		"Stacked Cinderblock"
+		}
+		"NorthWest"
+		{
+			"command"	"prop_dynamic_create props/de_prodigy/concretebags2.mdl"
+			"text"		"Concrete Bags"
+		}
+	}
+
+
+
+
+Original Creator = PhanracK ( www.YouTube.com/PhanracK )
+-----
+Version 5 Creator = Sora3100
+-----
+Binds =
+bind <key> "+mouse_menu VehiclesBuilder"
+bind <key> "+mouse_menu BarricadeBuilder"
+bind <key> "+mouse_menu BarricadeBuilder2"
+bind <key> "+mouse_menu BarricadeBuilder3"
+bind <key> "+mouse_menu BarricadeBuilder32"
+bind <key> "+mouse_menu BarricadeBuilder4"
+bind <key> "+mouse_menu BarricadeBuilder42"
+bind <key> "+mouse_menu BarricadeBuilder43"
+bind <key> "+mouse_menu BarricadeBuilder5"
+bind <key> ent_remove
+-----
+Fixes =
+Added 1 new list,and a new rotate mod.
+-----
+Contact =
+YouTube = www.YouTube.com/Sora3100
+Windows Live Messenger = varga.dominik@hotmail.com
+Xfire = vargadominik
+Steam = Sora3100
+-----
+INSTALLATION =
+Put the "RadialMenu" to the Steam/steamapps/common/left 4 dead/left4dead/scripts folder.
+Then use the binds up there.
+To the new Rotate Mod open "Rotate_Mod.cfg" with notepad then replace the two <key> with a key.
+Then put the "Rotate_Mod.cfg" to Steam/steamapps/common/left 4 dead/left4dead/cfg folder.
+Then open game and type in console: exec Rotate_Mod .
+-----
+SPECIAL THANKS TO:
+-DarkSide- (For sending me the new Rotate Mod.)
+-----
+Enjoy!!!

@@ -120,5 +120,15 @@ SVN Revision 20 - SRDDonkey
 -Removed "POSTERRORSINHERE!.txt". (Please post bugs at the left 4 gmod project website)
 -Modified Master Server IP's.
 --------------------------
+June 6, 2009
+SVN Revision 24 - SRDDonkey
+--------------------------
+-Modified README.
+-Added Missing files in materials folder.
+-Added Missing files in scripts folder.
+-Added Missing files in sound folder.
+-Added Missing files in cfg folder.
+-Alot of other changes and additions I can't think of, Major Update!
+--------------------------
 
 
