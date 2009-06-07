@@ -1,0 +1,2861 @@
+//
+// Deadcity Soundscapes
+//
+// These are Derived from the urban soundscapes.
+//
+// Please keep all generic and global updates within urban, 
+// while any map specific replacements or changes go here.
+
+//=======================
+//   Deadcity SoundTrack
+//=======================
+"deadcity.soundtrack"
+{
+	"dsp"	"1"
+	"playrandom"
+	{
+		"time"		"45,60"
+		"volume"	"0.55, 0.65"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"music/contagion/BH_Rabies_01.wav"
+			"wave"	"music/contagion/BH_Rabies_02.wav"
+			"wave"	"music/contagion/BH_Rabies_03.wav"
+			"wave"	"music/contagion/BH_Rabies_04.wav"
+			"wave"	"music/contagion/BH_Rabies_05.wav"
+			"wave"	"music/contagion/BH_Rabies_06.wav"
+			"wave"	"music/contagion/BH_Rabies_07.wav"
+			"wave"	"music/contagion/BH_Rabies_08.wav"
+			"wave"	"music/contagion/BH_Rabies_09.wav"
+			"wave"	"music/contagion/BH_Rabies_10.wav"
+
+			"wave"	"music/contagion/DA_Rabies_01.wav"
+			"wave"	"music/contagion/DA_Rabies_02.wav"
+			"wave"	"music/contagion/DA_Rabies_03.wav"
+			"wave"	"music/contagion/DA_Rabies_04.wav"
+			"wave"	"music/contagion/DA_Rabies_05.wav"
+			"wave"	"music/contagion/DA_Rabies_06.wav"
+			"wave"	"music/contagion/DA_Rabies_07.wav"
+			"wave"	"music/contagion/DA_Rabies_08.wav"
+			"wave"	"music/contagion/DA_Rabies_09.wav"
+			"wave"	"music/contagion/DA_Rabies_10.wav"
+
+			"wave"	"music/contagion/NM_Rabies_01.wav"
+			"wave"	"music/contagion/NM_Rabies_02.wav"
+			"wave"	"music/contagion/NM_Rabies_03.wav"
+			"wave"	"music/contagion/NM_Rabies_04.wav"
+			"wave"	"music/contagion/NM_Rabies_05.wav"
+			"wave"	"music/contagion/NM_Rabies_06.wav"
+			"wave"	"music/contagion/NM_Rabies_07.wav"
+			"wave"	"music/contagion/NM_Rabies_08.wav"
+			"wave"	"music/contagion/NM_Rabies_09.wav"
+			"wave"	"music/contagion/NM_Rabies_10.wav"
+
+			"wave"	"music/contagion/DT_Rabies_01.wav"
+			"wave"	"music/contagion/DT_Rabies_02.wav"
+			"wave"	"music/contagion/DT_Rabies_03.wav"
+			"wave"	"music/contagion/DT_Rabies_04.wav"
+			"wave"	"music/contagion/DT_Rabies_05.wav"
+			"wave"	"music/contagion/DT_Rabies_06.wav"
+			"wave"	"music/contagion/DT_Rabies_07.wav"
+			"wave"	"music/contagion/DT_Rabies_08.wav"
+			"wave"	"music/contagion/DT_Rabies_09.wav"
+			"wave"	"music/contagion/DT_Rabies_10.wav"
+		}
+	}
+	
+	"playrandom"
+	{
+		"time"		"17,27"
+		"volume"	"0.55, 0.65"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"music/zombiechoir/ZombieChoir_01.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_02.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_03.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_04.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_05.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_06.wav"
+			"wave"		"music/zombiechoir/ZombieChoir_07.wav"
+	     }
+	}
+	
+	// wind gusts
+	"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"0.25"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"ambient/wind/wind_med1.wav"
+			"wave"	"ambient/wind/wind_med2.wav"
+		}
+	}
+	
+	// wind gusts 2
+	"playrandom"
+	{
+		"time"			"12,18"
+		"volume"		"0.39"
+		"pitch"			"95,102"
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/RandomWindGust01.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomWindGust02.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomWindGust03.wav"
+		}
+	}
+}
+
+//=======================
+//   Deadcity MainStreet
+//=======================
+"deadcity.mainstreet"
+{
+	"dsp"	"1"
+
+	// Position 0: Flies
+	"playrandom"
+	{
+		"position"	"0"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}
+	
+	// Position 1: Flies
+	"playrandom"
+	{
+		"position"	"1"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}
+	
+	// Position 2: Flies
+	"playrandom"
+	{
+		"position"	"2"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}
+	
+	// Position 3 : Burning Car
+	"playlooping"
+	{
+		"position"	"3"
+		"volume"	"1"
+		"pitch"		"100"
+		//"attenuation"	"1"
+		"soundlevel"	"SNDLVL_75dB"
+		"wave"		"ambient/Spacial_Loops/CarFire_Loop.wav"
+	}
+
+	// Position 4 : General Fire
+	"playlooping"
+	{
+		"position"	"4"
+		"volume"	"1"
+		"pitch"		"100"
+		//"attenuation"	"1"	
+		"soundlevel"	"SNDLVL_75dB"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+	}
+	
+	//Position 5: garbage can fire
+	"playlooping"
+	{
+		"position"	"5"
+		"volume"	".95"
+		"pitch"		"110"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		//"origin"	"3074.218262, 4064.646729, 61.281250;"
+		"soundlevel" 	"SNDLVL_65dB"
+	}
+	
+	// animals
+	"playrandom"
+	{
+		"position"	"6"
+		"time"			"20,40"
+		"volume"		"0.3"
+		"pitch"			"95,102"
+		"soundlevel"  	"SNDLVL_NORM"
+		"rndwave"
+		{
+			"wave"	"ambient/animal/crow_1.wav"
+			"wave"	"ambient/animal/crow_2.wav"
+		}
+	}
+}
+
+//=======================
+//   Deadcity Interior
+//=======================
+"deadcity.interior"
+{
+
+	"dsp"	"1"
+	
+	"playrandom"
+	{
+		"time"		"6,12"
+		"volume"	"0.25,0.65"
+		"pitch"		"90,105"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_01.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_02.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_03.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_04.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_05.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_06.wav"
+			"wave"	"ambient/Random_Amb_SFX/Urban_1b-5b_RandomMetal_Interior/Random_InteriorMetal_07.wav"
+		}
+	}
+
+}
+
+"deadcity.metalslams"
+{
+	"dsp"	"1"
+	
+	"playrandom"
+	{
+		"time"		"7,23"
+		"volume"	"0.59,0.9"
+		"pitch"		"50,105"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/BinHit01.wav"
+			"wave"	"ambient/Random_Amb_SFX/BinHit02.wav"
+			"wave"	"ambient/Random_Amb_SFX/BinHit03.wav"
+		}
+	}
+	
+	"playrandom"
+	{
+		"time"		"7,20"
+		"volume"	"0.7,0.9"
+		"pitch"		"60,105"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalRattle01.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalRattle02.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalRattle03.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalShake01.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalShake02.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalSqueak01.wav"
+			"wave"	"ambient/Random_Amb_SFX/RandomMetalSqueak02.wav"
+		}
+	}
+}
+
+"deadcity.floorsqueaks"
+{
+
+	"dsp"	"1"
+	
+	"playrandom"
+	{
+		"time"		"4,16"
+		"volume"	"0.5,0.8"
+		"pitch"		"50,115"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak01.wav"
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak02.wav"
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak03.wav"
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak04.wav"
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak05.wav"
+			"wave"	"ambient/Random_Amb_SFX/Wood_Floor_Squeak06.wav"
+		}
+	}
+
+}
+
+//=======================
+//   Deadcity Screams
+//=======================
+"deadcity.screams"
+{
+	"dsp"	"1"
+
+	// scary sounds
+	"playrandom"
+	{
+		"time"		"5,11"
+		"volume"	".4,.8"
+		"pitch"		"90,100"
+
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/town_scared_breathing1.wav"
+			"wave"	"ambient/creatures/town_scared_breathing2.wav"
+			"wave"	"ambient/creatures/town_scared_sob1.wav"
+			"wave"	"ambient/creatures/town_scared_sob2.wav"
+			"wave"	"ambient/creatures/town_moan1.wav"
+			"wave"	"ambient/materials/wood_creak1.wav"
+			"wave"	"ambient/materials/wood_creak2.wav"
+			"wave"	"ambient/materials/wood_creak3.wav"
+			"wave"	"ambient/materials/wood_creak4.wav"
+			"wave"	"ambient/materials/wood_creak5.wav"
+			"wave"	"ambient/materials/wood_creak6.wav"
+		}
+	}
+}
+
+
+
+
+//***********************
+//=======================
+//   Deadcity Chapter 01
+//=======================
+//***********************
+
+//=======================
+//   Deadcity Riverside
+//=======================
+"deadcity_01.mainstreet"
+{
+	"dsp"	"1"
+
+	// SoundTrack
+	"playsoundscape"
+	{
+		"name"	"deadcity.soundtrack"
+		"volume" "1"
+	}
+	
+	// wind gusts 3
+	"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"1"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
+			"wave"	"ambient/levels/forest/treewind1.wav"
+			"wave"	"ambient/levels/forest/treewind2.wav"
+			"wave"	"ambient/levels/forest/treewind3.wav"
+			"wave"	"ambient/levels/forest/treewind4.wav"
+		}
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".8"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".8"
+	}
+	
+	// Screams
+	"playsoundscape"
+	{
+		"name"	"deadcity.screams"
+		"volume" "1"
+	}
+	
+	// MainStreet
+	"playsoundscape"
+	{
+		"name"	"deadcity.mainstreet"
+		"volume" "1"
+	}
+}
+
+//***********************
+//   Deadcity Alley
+//***********************
+"deadcity_01.alley"
+{
+	"dsp"	"1"
+
+	// wind gusts
+	"playrandom"
+	{
+		"time"		"11,24"
+		"volume"	"0.8"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"ambient/wind/wind_snippet1.wav"
+			"wave"	"ambient/wind/wind_snippet2.wav"
+			"wave"	"ambient/wind/wind_snippet3.wav"
+		}
+	}
+
+	// metal sfx
+	"playrandom"
+	{
+		"position"	"random"
+		"time"			"14,23"
+		"volume"		"0.6,.9"
+		"pitch"			"75,100"
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/Cable_Rattle01.wav"
+			"wave"	"ambient/Random_Amb_SFX/Cable_Rattle02.wav"
+			"wave"	"ambient/Random_Amb_SFX/Cable_Rattle03.wav"
+			"wave"	"ambient/Random_Amb_SFX/Cable_Rattle04.wav"
+			"wave"	"ambient/Random_Amb_SFX/Cable_Rattle05.wav"
+		}
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.screams"
+		"volume" "1"
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" "1"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".95"
+		"pitch"		"110"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		//"origin"	"2657.182861, 1841.603394, 61.281250;"
+		"soundlevel" 	"SNDLVL_70dB"
+	}
+
+	// animals
+	"playrandom"
+	{
+		"position"	"0"
+		"time"			"20,40"
+		"volume"		"1"
+		"pitch"			"95,102"
+		"soundlevel"  	"SNDLVL_NORM"
+		"rndwave"
+		{
+			"wave"	"ambient/animal/crow_1.wav"
+			"wave"	"ambient/animal/crow_2.wav"
+		}
+	}
+}
+
+//***********************
+//   Deadcity Subway
+//***********************
+"deadcity_01.subway"
+{
+	"dsp"	"1"
+
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/atmosphere/crucial_undercity_loop1.wav"
+	}
+
+	// Metal tunnel sounds
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	".2,.3"
+		"pitch"		"90,100"
+		"rndwave"
+		{
+			"wave"	"ambient/materials/metal4.wav"
+			"wave"	"ambient/materials/metal5.wav"
+			"wave"	"ambient/materials/metal9.wav"
+		}
+	}
+}
+
+//***********************
+//   Deadcity Interior
+//***********************
+"deadcity_01.riverside_1b_interior"
+{
+	"dsp" "1"
+
+	// underlying area "tone"
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+		"volume" 	".65"
+		"position"	"random"
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"deadcity.interior"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.floorsqueaks"
+		"volume" ".86"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".025"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".35"
+	}
+	
+	// position 0 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_1"
+		"volume" 		".75"
+		"positionoverride"	"0"
+	}
+
+	// position 1 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_2"
+		"volume" 		".75"
+		"positionoverride"	"1"
+	}
+	
+	// Position 2: Flies
+	"playrandom"
+	{
+		"position"	"2"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}	
+}
+
+"deadcity_01.riverside_1b_interior2"
+{
+	"dsp" "1"
+
+	// underlying area "tone"
+
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+		"volume" 	".67"
+		"position"	"random"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.interior"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.screams"
+		"volume" "1"
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"deadcity.floorsqueaks"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".25"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".3"
+	}
+	
+	// position 0 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_1"
+		"volume" 		".75"
+		"positionoverride"	"0"
+	}
+
+	// position 1 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_2"
+		"volume" 		".75"
+		"positionoverride"	"1"
+	}
+
+	// Position 2: Flies
+	"playrandom"
+	{
+		"position"	"2"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}
+	
+	// position 3 comes from sink
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/plumbing_run_loop.wav"
+		"volume" 	"1"
+		"soundlevel"	"SNDLVL_50dB"
+		"position"	"3"
+	}
+	
+	// position 4 comes from a vending machine
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"soundlevel"	"SNDLVL_65dB"
+		"volume" 	".75"
+		"position"	"4"
+	}
+
+	// position 5 comes from a flourescent light
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/Fluorescent_Lights_loop.wav"
+		"attenuation"	"2"
+		"volume" 	".25"
+		"position"	"5"
+	}
+}
+
+//***********************
+//   Deadcity Basement
+//***********************
+"deadcity_01.basement"
+{
+
+	"dsp"	"1"
+
+	// underlying area "tone"
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+		"volume" 	".65"
+		"position"	"random"
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_interiorslams"
+		"volume" "1"
+	}
+
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".025"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".35"
+	}
+	
+	// position 0 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"positionoverride"	"0"
+		"name"			"urban.util_genericexterior_from_interior_1"
+		"volume" 		".75"
+	}
+
+	// position 1 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"positionoverride"	"1"
+		"name"			"urban.util_genericexterior_from_interior_2"
+		"volume" 		".75"
+	}
+	
+	
+	//Position 2: garbage can fire
+	"playlooping"
+	{
+		"position"	"2"
+		"volume"	".95"
+		"pitch"		"110"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"soundlevel" 	"SNDLVL_65dB"
+	}
+}
+
+//***********************
+//   Deadcity spawn
+//***********************
+"deadcity_01.spawn"
+{
+	"dsp"	"1"
+
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.65"
+		"pitch"		"100"
+		"wave"		"ambient/atmosphere/crucial_quiet_cellblock_amb.wav"
+	}
+	
+	// rats
+	"playrandom"
+	{
+		"position"	"random"
+		"time"		"5,20"
+		"volume"	".4,.5"
+		"pitch"		"90,100"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/rats1.wav"
+			"wave"	"ambient/creatures/rats2.wav"
+			"wave"	"ambient/creatures/rats3.wav"
+			"wave"	"ambient/atmosphere/hole_hit1.wav"
+			"wave"	"ambient/atmosphere/hole_hit2.wav"
+			"wave"	"ambient/atmosphere/hole_hit3.wav"
+			"wave"	"ambient/atmosphere/hole_hit4.wav"
+			"wave"	"ambient/atmosphere/hole_hit5.wav"
+		}
+	}
+	
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"pitch"		"100"
+		"wave"		"ambient/ambience/crucial_smallroomtone_amb_loop.wav"
+	}
+
+	// Position 0: Flies
+	"playsoundscape"
+	{
+		"positionoverride"	"0"
+		"name"			"urban.flies"
+	}
+	
+	// position 1 comes from the dead body
+	"playsoundscape"
+	{
+		"positionoverride"	"1"
+		"name"	"urban.util_flies"
+		"volume" 	"1"
+	}
+	
+	// position 2 comes from downstairs
+	"playsoundscape"
+	{
+		"positionoverride"	"2"
+		"name"	"urban.util_interiorslams"
+		"volume" "1"
+	}
+}
+
+
+
+
+
+//=======================
+//=======================
+//   Deadcity Chapter 02
+//=======================
+//=======================
+
+//***********************
+// Deadcity BackAlley
+//***********************
+"deadcity_02.mainstreet"
+{
+	"dsp"	"1"
+
+	// SoundTrack
+	"playsoundscape"
+	{
+		"name"	"deadcity.soundtrack"
+		"volume" "1"
+	}
+	
+	// MainStreet
+	"playsoundscape"
+	{
+		"name"	"deadcity.mainstreet"
+		"volume" "1"
+	}
+	
+	// wind gusts 3
+	"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"1"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
+			"wave"	"ambient/levels/forest/treewind1.wav"
+			"wave"	"ambient/levels/forest/treewind2.wav"
+			"wave"	"ambient/levels/forest/treewind3.wav"
+			"wave"	"ambient/levels/forest/treewind4.wav"
+		}
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".8"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".8"
+	}
+}
+
+//***********************
+//   Deadcity Alley
+//***********************
+"deadcity_02.alley"
+{
+	"dsp"	"1"
+
+	// SoundTrack
+	"playsoundscape"
+	{
+		"name"	"deadcity.soundtrack"
+		"volume" "1"
+	}
+	
+	// MainStreet
+	"playsoundscape"
+	{
+		"name"	"deadcity.mainstreet"
+		"volume" "1"
+	}
+	
+	// rats
+	"playrandom"
+	{
+		"position"	"random"
+		"time"		"5,20"
+		"volume"	".4,.5"
+		"pitch"		"90,100"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/rats1.wav"
+			"wave"	"ambient/creatures/rats2.wav"
+			"wave"	"ambient/creatures/rats3.wav"
+			"wave"	"ambient/atmosphere/hole_hit1.wav"
+			"wave"	"ambient/atmosphere/hole_hit2.wav"
+			"wave"	"ambient/atmosphere/hole_hit3.wav"
+			"wave"	"ambient/atmosphere/hole_hit4.wav"
+			"wave"	"ambient/atmosphere/hole_hit5.wav"
+		}
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".8"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".8"
+	}
+}
+
+//***********************
+//   Deadcity Interior
+//***********************
+"deadcity_02.backalley_1b_interior"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.interior"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".025"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".35"
+	}
+}
+
+"deadcity_02.backalley_1b_interior2"
+{
+	"dsp" "1"
+
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+		"volume" 	".67"
+		"position"	"random"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.interior"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"deadcity.screams"
+		"volume" "1"
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"deadcity.floorsqueaks"
+		"volume" "1"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".25"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".3"
+	}
+	
+	// position 0 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_1"
+		"volume" 		".75"
+		"positionoverride"	"0"
+	}
+
+	// position 1 comes from the upper doorway or windows
+	"playsoundscape"
+	{
+		"name"			"urban.util_genericexterior_from_interior_2"
+		"volume" 		".75"
+		"positionoverride"	"1"
+	}
+
+	// Position 2: Flies
+	"playrandom"
+	{
+		"position"	"2"
+		"time"		".5,1"
+		"volume"	".9"
+		"pitch"		"90,100"
+		"soundlevel"  	"SNDLVL_50dB"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/flies1.wav"
+			"wave"	"ambient/creatures/flies2.wav"
+			"wave"	"ambient/creatures/flies3.wav"
+			"wave"	"ambient/creatures/flies4.wav"
+		}
+	}
+	
+	// position 3 comes from sink
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/plumbing_run_loop.wav"
+		"volume" 	"1"
+		"soundlevel"	"SNDLVL_50dB"
+		"position"	"3"
+	}
+	
+	// position 4 comes from a vending machine
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"soundlevel"	"SNDLVL_65dB"
+		"volume" 	".75"
+		"position"	"4"
+	}
+
+	// position 5 comes from a flourescent light
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/Fluorescent_Lights_loop.wav"
+		"attenuation"	"2"
+		"volume" 	".25"
+		"position"	"5"
+	}
+}
+
+
+
+
+//***********************
+//   Deadcity Garage
+//***********************
+"deadcity_02.garage"
+{
+
+	"dsp"	"1"
+
+	// underlying area "tone1"
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_UnderGroundRumbleTone_loop.wav"
+		"volume" 	".7"
+		"position"	"random"
+	}
+
+	// underlying area "tone2"
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/atmosphere/crucial_undercity_loop1.wav"
+	}
+
+	// Metal tunnel sounds
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	".2,.3"
+		"pitch"		"90,100"
+		"rndwave"
+		{
+			"wave"	"ambient/materials/metal4.wav"
+			"wave"	"ambient/materials/metal5.wav"
+			"wave"	"ambient/materials/metal9.wav"
+		}
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"deadcity.metalslams"
+		"volume" ".3"
+	}
+	
+	// Position 0 : General Fire
+	"playlooping"
+	{
+		"position"	"0"
+		"volume"	"1"
+		"pitch"		"100"
+		"soundlevel"	"SNDLVL_60dB"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+	}
+
+	// Position 1 : General Fire
+	"playlooping"
+	{
+		"position"	"1"
+		"volume"	"1"
+		"pitch"		"100"
+		"soundlevel"	"SNDLVL_60dB"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+	}
+	
+	// Position 2 : General Fire
+	"playlooping"
+	{
+		"position"	"2"
+		"volume"	"1"
+		"pitch"		"100"
+		"soundlevel"	"SNDLVL_60dB"
+		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+	}
+	
+	// position 3 comes from a ticket machine
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/TicketMachine_Loop.wav"
+		//"attenuation"	"2"
+		"volume" 	".1"
+		"position"	"3"
+	}
+
+	// position 4 comes from plumbing
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/plumbing_run_loop.wav"
+		"attenuation"	"1.5"
+		"volume" 	".35"
+		"position"	"4"
+	}
+	
+	// position 5 comes from a flourescent light
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/Fluorescent_Lights_loop.wav"
+		"attenuation"	"2"
+		"volume" 	".35"
+		"position"	"5"
+	}
+	
+	// position 6  comes from a vending machine
+		"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/Fluorescent_Lights_loop.wav"
+		"attenuation"	"2"
+		"volume" 	".35"
+		"position"	"6"
+	}
+	
+	//  position 7 
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"attenuation"	"2"
+		"volume" 	".75"
+		"position"	"7"
+	}
+	
+}
+
+"deadcity_02.generatorroom"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.generatorroom"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_02.generatorroom_off"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.generatorroom_off"
+		"volume" "1"
+	}
+}
+
+"deadcity_02.rooftop"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.rooftop"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_02.controlroom"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"		"urban.controlroom"
+		"volume" 	".5"
+	}
+}
+
+
+"deadcity_02.warehouseoutside"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.warehouseoutside"
+		"volume" "1"
+	}
+}
+
+
+//=======================
+//=======================
+//   Deadcity Chapter 03
+//=======================
+//=======================
+//=======================
+//   Deadcity Bridge
+//=======================
+"deadcity_03.bridge"
+{
+	"dsp"	"1"
+
+	// SoundTrack
+	"playsoundscape"
+	{
+		"name"	"deadcity.soundtrack"
+		"volume" "1"
+	}
+	
+	// wind gusts 3
+	"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"1"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
+			"wave"	"ambient/levels/forest/treewind1.wav"
+			"wave"	"ambient/levels/forest/treewind2.wav"
+			"wave"	"ambient/levels/forest/treewind3.wav"
+			"wave"	"ambient/levels/forest/treewind4.wav"
+		}
+	}
+	
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantcombat"
+		"volume" ".8"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_distantexplosions"
+		"volume" ".8"
+	}
+	
+	// Screams
+	"playsoundscape"
+	{
+		"name"	"deadcity.screams"
+		"volume" "1"
+	}
+	
+	// MainStreet
+	"playsoundscape"
+	{
+		"name"	"deadcity.mainstreet"
+		"volume" "1"
+	}
+}
+
+
+
+
+"deadcity_03.alleyrain"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.alleyrain"
+		"volume" "1"
+	}
+	"playlooping"
+	{
+		"volume"	".95"
+		"pitch"		"115"
+		"wave"		"ambient/gas/steam2.wav"
+		"origin"	"12817.862305, 8036.788574, 125.838715;"
+		"soundlevel" 	"SNDLVL_65dB"
+	}
+}
+
+
+"deadcity_03.riverside_1b_interior2"
+{
+	"dsp" "1"
+
+	// underlying area "tone"
+
+	"playlooping"
+	{
+		"wave"		"ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+		"volume" 	".79"
+		"position"	"random"
+	}
+	"playlooping"
+	{
+		"wave"		"ambient\weather\crucial_rumble_rain_nowind.wav"
+		"volume" 	".9"
+		"origin"	" 11136.497070, 5917.669434, 86.230179;"
+		"soundlevel" 	"SNDLVL_65dB"
+	}
+	"playlooping"
+	{
+		"wave"		"ambient\weather\crucial_rumble_rain_nowind.wav"
+		"volume" 	".9"
+		"origin"	" 10925.726563, 7097.053223, 296.031250;"
+		"soundlevel" 	"SNDLVL_70dB"
+	}
+
+
+	
+
+	"playsoundscape"
+	{
+		"name"	"urban.util_interiorslams"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_03.warehouse_1"
+{
+	"dsp" "1"
+
+	// underlying area "tone"
+
+	"playlooping"
+	{
+		"wave"		"(ambient/Ambience/crucial_BigWarehouseAmb_loop.wav"
+		"volume" 	".8"
+		"position"	"random"
+	}
+	// ambient fx
+	"playrandom"
+	{
+		"time"		"6,13"
+		"volume"	"0.4,.7"
+		"pitch"		"50,110"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb01.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb02.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb03.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb04.wav"
+		}
+	}
+}
+
+
+"deadcity_03.steamtunnel"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.steamtunnel"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_03.boilerroom"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.boilerroom"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_03.sewer"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.sewer"
+		"volume" "1"
+	}
+	//Water leaking in from above
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"90"
+		"soundlevel"  	"SNDLVL_70dB"
+		"wave"		"ambient/Spacial_Loops/4b_HospAtrium_WaterLeak.wav"
+		"origin"	"14283.930664, 11623.138672, -351.968750;"
+	}
+	//weather sfx coming from open manhole above
+	"playlooping"
+	{
+		"volume"	"0.56"
+		"pitch"		"100"
+		"wave"		"ambient/weather/crucial_rumble_rain.wav"
+		"soundlevel"  	"SNDLVL_70dB"
+		"origin"	"14278.092773, 11623.968750, -100.949738;"
+	}
+}
+
+
+"deadcity_03.pipetunnel"
+{
+	"dsp" "1"
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"pitch"		"100"
+		"wave"		"(ambient/Ambience/crucial_UnderGroundRumbleTone_loop.wav"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.pipetunnel"
+		"volume" "1"
+	}
+	
+	
+}
+
+
+"deadcity_03.streetrain"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.streetrain"
+		"volume" "1"
+
+	}
+}
+
+
+"deadcity_03.Deadcity"
+{
+	"dsp" "1"
+
+	//Flies on body
+	"playlooping"
+	{
+		"volume"	".85"
+		"pitch"		"110"
+		"wave"		"ambient/creatures/Flies_Loop.wav"
+		//"origin"	"12662.568359, 12319.380859, 31.773811;"
+		"soundlevel" 	"SNDLVL_65dB"
+	}
+	// vending machine
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"soundlevel"	"SNDLVL_60dB"
+		"volume" 	".5"
+		//"origin"	"12311.408203, 12419.258789, 39.798462;"
+	}
+	//weather sfx coming from open door
+	"playlooping"
+	{
+		"volume"	"0.56"
+		"pitch"		"100"
+		"wave"		"ambient/weather/crucial_rumble_rain.wav"
+		"soundlevel"  	"SNDLVL_70dB"
+		//"origin"	"12882.794922, 12341.797852, 16.031250;"
+	}
+}
+
+
+"deadcity_03.riverside_1b_interior"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.riverside_1b_interior"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_03.respawn"
+{
+	"dsp" "1"
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"pitch"		"100"
+		"wave"		"ambient/Ambience/crucial_UnderGroundRumbleTone_loop.wav"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"urban.respawn"
+		"volume" "1"
+	}
+}
+
+
+
+//=======================
+//=======================
+//   Deadcity 04
+//=======================
+//=======================
+"deadcity_04.deadcity_interior"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.deadcity_interior"
+		"volume" "1"
+	}
+// ambient fx
+	"playrandom"
+	{
+		"time"		"9,29"
+		"volume"	"0.2,0.3"
+		"pitch"		"68,110"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb01.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb02.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb03.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb04.wav"
+		}
+	}
+}
+
+
+"deadcity_04.deadcity_atrium"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.deadcity_interior"
+		"volume" "1"
+	}
+
+	//leaking water
+	"playlooping"
+	{
+		"wave"		"ambient/Spacial_Loops/4b_HospAtrium_WaterLeak.wav"
+		"volume" 	".7"
+                "soundlevel"	"SNDLVL_75dB"
+		"origin"	"12709.096680, 12042.679688, 191.229706;"
+	}
+
+	// ambient fx
+	"playrandom"
+	{
+		"time"		"9,29"
+		"volume"	"0.2,.3"
+		"pitch"		"68,110"
+		"position"	"random"
+
+		"rndwave"
+		{
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb01.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb02.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb03.wav"
+			"wave"	"ambient/Random_Amb_SFX/MetalScrapeVerb04.wav"
+		}
+	}
+}
+
+
+"deadcity_04.elevator"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.elevator"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_04.finaleoutside"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.finaleoutside"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_04.construction"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.construction"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_04.street"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.street"
+		"volume" "1"
+	}
+}
+
+
+"deadcity_04.respawn"
+{
+	"dsp" "1"
+
+	"playsoundscape"
+	{
+		"name"	"urban.respawn"
+		"volume" "1"
+	}
+	// underlying area "tone"
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"pitch"		"100"
+		"wave"		"(ambient/Ambience/crucial_MedRoomtone_Amb_loop.wav"
+	}
+
+}
+
+
+//=======================
+//=======================
+//   Deadcity 05
+//=======================
+//=======================
+
+//------------------------------------------------------------------------------------------
+//
+// Generic outdoors ambience
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Outside"
+{
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.25"
+      "pitch"     "100"
+      "wave"      "ambient/lightwindleaves.wav"
+   }
+
+   // wind gusts
+   "playrandom"
+   {
+      "time"      "15,30"
+      "volume" "0.1"
+      "pitch"     "90,110"
+
+      "rndwave"
+      {
+         "wave"      "ambient/windgust1.wav"
+         "wave"      "ambient/windgust2.wav"
+         "wave"      "ambient/windgust3.wav"
+      }
+   }
+
+   // Thunder Storms
+   "playrandom"
+   {
+      "time"      "60,90"
+      "volume" ".05,.1"
+      "pitch"     "90,100"
+
+      "rndwave"
+      {
+         "wave"      "ambient/atmosphere/thunder1.wav"
+         "wave"      "ambient/atmosphere/thunder2.wav"
+         "wave"      "ambient/atmosphere/thunder3.wav"
+         "wave"      "ambient/atmosphere/thunder4.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// All dumpsters have flies
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Dumpster"
+{
+   "playrandom"
+   {
+      "time"         "1,4"
+      "volume"    "1.0"
+      "pitch"        "90,110"
+      "soundlevel"   "SNDLVL_55dB"
+
+      "rndwave"
+      {
+         "wave"      "ambient/creatures/flies1.wav"
+         "wave"      "ambient/creatures/flies2.wav"
+         "wave"      "ambient/creatures/flies3.wav"
+         "wave"      "ambient/creatures/flies4.wav"
+         "wave"      "ambient/creatures/flies5.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// Traffic driving by
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Traffic"
+{
+   "playrandom"
+   {
+      "time"         "15,25"
+      "volume"    "1.0"
+      "pitch"        "80,100"
+      "soundlevel"   "SNDLVL_95dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/misc/car1.wav"
+         "wave"   "ambient/misc/car2.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// A Tank of something
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Tank1"
+{
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/machines/refinery_loop_1.wav"
+   }
+   "playrandom"
+   {
+      "time"         "5,15"
+      "volume"    "1.0"
+      "pitch"        "90,110"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/steam_release_1.wav"
+         "wave"   "ambient/machines/steam_release_2.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// A Tank of something else
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Tank2"
+{
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/machines/turbine_loop_1.wav"
+   }
+   "playrandom"
+   {
+      "time"         "5,15"
+      "volume"    "1.0"
+      "pitch"        "90,110"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/steam_release_1.wav"
+         "wave"   "ambient/machines/steam_release_2.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// The Allies Target: Tanks of Mustard Gas
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.BombTarget"
+{
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "0.8"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/machines/gas_loop_1.wav"
+   }
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_65dB"
+
+      "wave"   "ambient/machines/deep_boil.wav"
+   }
+}
+
+//------------------------------------------------------------------------------------------
+//
+// Critters of All Kind
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.Birds"
+{
+   "playrandom"
+   {
+      "time"         "6,20"
+      "pitch"        "85,105"
+      "volume"    "0.5"
+      "soundlevel"   "SNDLVL_NORM"
+
+      "rndwave"
+      {
+         "wave"      "ambient/levels/canals/critter1.wav"
+         "wave"      "ambient/levels/canals/critter2.wav"
+         "wave"      "ambient/levels/canals/critter3.wav"
+         "wave"      "ambient/levels/canals/critter4.wav"
+         "wave"      "ambient/levels/canals/critter5.wav"
+         "wave"      "ambient/levels/canals/critter6.wav"
+         "wave"      "ambient/levels/canals/critter7.wav"
+         "wave"      "ambient/levels/canals/critter8.wav"
+      }
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// Axis Spawning Area
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.TSpawn"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+   // Position 0: Factory in the distance
+   "playlooping"
+   {
+      "position"     "0"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_75dB"
+
+      "wave"   "ambient/machines/pump_loop_1.wav"
+   }
+   // traffic in direction of factory
+   "playsoundscape"
+   {
+      "positionoverride"   "0"
+      "name"            "deadcity_05.Traffic"
+   }
+
+
+   // Position 1: Pipes
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_40dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 2: Tree
+   "playsoundscape"
+   {
+      "positionoverride"   "2"
+      "name"            "deadcity_05.Birds"
+   }
+
+
+   // Position 3: Dumpster behind truck
+   "playsoundscape"
+   {
+      "positionoverride"   "3"
+      "name"            "deadcity_05.Dumpster"
+   }
+}
+
+
+
+//------------------------------------------------------------------------------------------
+//
+// Axis Walkway Area
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.TWalkway"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+   // Position 0: Green dumpster
+   "playsoundscape"
+   {
+      "positionoverride"   "0"
+      "name"            "deadcity_05.Dumpster"
+   }
+
+   // Position 1: Just inside the door heading up the stairs
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "100"
+      "volume"    "0.1"
+      "soundlevel"   "SNDLVL_60dB"
+      "wave"         "ambient/atmosphere/indoor1.wav"
+   }
+
+   // Position 2: Transformer
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "100"
+      "volume"    "0.8"
+      "soundlevel"   "SNDLVL_55dB"
+
+      "wave"   "ambient/machines/power_transformer_loop_1.wav"
+   }
+
+   // Position 3: Pipes
+
+
+   // Position 4: Giant Dumpster
+   "playsoundscape"
+   {
+      "positionoverride"   "4"
+      "name"            "deadcity_05.Dumpster"
+   }
+
+   // Position 5: Big tank on the Roof
+   "playlooping"
+   {
+      "position"     "5"
+      "pitch"        "60"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_70dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BackAlley"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+   // Position 0: Doorway
+   "playlooping"
+   {
+      "position"     "0"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/atmosphere/factory_loop_1.wav"
+   }
+
+   // Position 1: Big white tank
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "90"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_70dB"
+
+      "wave"   "ambient/machines/turbine_loop_2.wav"
+   }
+   "playrandom"
+   {
+      "position"     "1"
+      "time"         "10,20"
+      "volume"    "1.0"
+      "pitch"        "95,110"
+      "soundlevel"   "SNDLVL_75dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/misc/metal_str1.wav"
+         "wave"   "ambient/misc/metal_str2.wav"
+         "wave"   "ambient/misc/metal_str3.wav"
+         "wave"   "ambient/misc/metal_str4.wav"
+         "wave"   "ambient/misc/metal_str5.wav"
+      }
+   }
+
+   // Position 2: Pair of tanks behind chainlink
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "2"
+   }
+
+   // Position 3: Pair of tanks behind chainlink
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank2"
+      "positionoverride"   "3"
+   }
+
+
+   // Position 4: Dumpster
+   "playrandom"
+   {
+      "position"     "4"
+      "time"         "1,4"
+      "volume"    "1.0"
+      "pitch"        "90,110"
+      "soundlevel"   "SNDLVL_55dB"
+
+      "rndwave"
+      {
+         "wave"      "ambient/creatures/flies1.wav"
+         "wave"      "ambient/creatures/flies2.wav"
+         "wave"      "ambient/creatures/flies3.wav"
+         "wave"      "ambient/creatures/flies4.wav"
+         "wave"      "ambient/creatures/flies5.wav"
+      }
+   }
+
+   // Position 5: Doorway
+   "playlooping"
+   {
+      "position"     "5"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      //"wave" "ambient/atmosphere/factory_loop_1.wav"
+   }
+
+   // Position 6: Doorway in dark hall
+   "playlooping"
+   {
+      "position"     "6"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/atmosphere/factory_loop_1.wav"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BackCorner"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+   // Position 0: Big pipe
+   "playlooping"
+   {
+      "position"     "0"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_45dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+
+   // Position 1: Factory in the distance
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_70dB"
+
+      "wave"   "ambient/machines/pump_loop_1.wav"
+   }
+
+   // traffic
+   "playrandom"
+   {
+      "position"     "1"
+      "time"         "15,25"
+      "volume"    "1.0"
+      "pitch"        "80,100"
+      "soundlevel"   "SNDLVL_70dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/misc/car1.wav"
+         "wave"   "ambient/misc/car2.wav"
+      }
+   }
+
+   "playrandom"
+   {
+      "position"     "1"
+      "time"         "10,20"
+      "volume"    "1.0"
+      "pitch"        "95,110"
+      "soundlevel"   "SNDLVL_75dB"
+
+      "rndwave"
+      {
+         "wave"   "ambient/misc/metal_str1.wav"
+         "wave"   "ambient/misc/metal_str2.wav"
+         "wave"   "ambient/misc/metal_str3.wav"
+         "wave"   "ambient/misc/metal_str4.wav"
+         "wave"   "ambient/misc/metal_str5.wav"
+      }
+   }
+
+   // Position 2: Big white tank
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "90"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_70dB"
+
+      "wave"   "ambient/machines/turbine_loop_2.wav"
+   }
+
+   // Position 3: Doorway in dark hall
+   "playlooping"
+   {
+      "position"     "3"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/atmosphere/factory_loop_1.wav"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.SideAlley"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.15"
+      "pitch"     "100"
+      "wave"      "ambient/tones/garage.wav"
+   }
+
+   // Position 0: Tank
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "0"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.CourtyardA"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+   // Position 0: Big pipe
+   "playlooping"
+   {
+      "position"     "0"
+      "pitch"        "90"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_50dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 1: Transformer
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "100"
+      "volume"    "0.8"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/machines/power_transformer_loop_1.wav"
+   }
+
+   // Position 2: Diesel engine front
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_75dB"
+
+      "wave"   "ambient/machines/big_truck.wav"
+   }
+
+   // Position 3: Birds on the roof
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Birds"
+      "positionoverride"   "3"
+   }
+
+
+   // Position 4: Dumpster
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Dumpster"
+      "positionoverride"   "4"
+   }
+
+   // Position 5: The bomb target
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.BombTarget"
+      "positionoverride"   "5"
+   }
+
+   // Position 6: Pipes
+   "playlooping"
+   {
+      "position"     "6"
+      "pitch"        "90"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_50dB"
+
+      //"wave"       "ambient/waterrun.wav"
+   }
+
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BombsiteA"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.25"
+      "pitch"     "100"
+      "wave"      "ambient/heavywind.wav"
+   }
+
+   // Position 0: The bomb target
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.BombTarget"
+      "positionoverride"   "0"
+   }
+
+   // Position 1: Dumpster
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Dumpster"
+      "positionoverride"   "1"
+   }
+
+   // Position 2: Transformer
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "100"
+      "volume"    "0.8"
+      "soundlevel"   "SNDLVL_55dB"
+
+      "wave"   "ambient/machines/power_transformer_loop_1.wav"
+   }
+
+   // Position 3: Pipes
+   "playlooping"
+   {
+      "position"     "3"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_40dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 4: Tanks
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank2"
+      "positionoverride"   "4"
+   }
+
+   // Position 5: Tank in the Side Alley
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "5"
+   }
+
+   // Position 6: Pipes in hidey hole near bomb
+   "playlooping"
+   {
+      "position"     "6"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_40dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// Allies Spawning Area
+//
+//------------------------------------------------------------------------------------------
+"deadcity_05.CTSpawn"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.25"
+      "pitch"     "100"
+      "wave"      "ambient/heavywind.wav"
+   }
+
+   // Position 0: Pipes
+   "playlooping"
+   {
+      "position"     "0"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_40dB"
+
+      //"wave" "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 1: Under the floor pipes
+   "playlooping"
+   {
+      "position"     "1"
+      "pitch"        "100"
+      "volume"    "0.6"
+      "soundlevel"   "SNDLVL_70dB"
+
+      //"wave" "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 2: Under the floor pipes
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "100"
+      "volume"    "0.1"
+      "soundlevel"   "SNDLVL_90dB"
+
+      "wave"   "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 3: Pipes
+   "playlooping"
+   {
+      "position"     "3"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_40dB"
+
+      //"wave" "ambient/gas/steam_loop1.wav"
+   }
+
+   // Position 5: Tank
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "5"
+   }
+
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity.train"
+{
+   "dsp" "1"
+
+   // the positions correspond to each window along the catwalk
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave"   "ambient/machines/refinery_loop_1.wav"
+   }
+   
+   "playrandom"
+   {
+      "pitch"        "100"
+      "volume"    "0.3"
+      "soundlevel"   "SNDLVL_75dB"
+      "time"         "15,30"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/train_pass_1.wav"
+         "wave"   "ambient/machines/train_pass_2.wav"
+         "wave"   "ambient/machines/train_pass_3.wav"
+         "wave"   "ambient/machines/train_pass_far.wav"
+      }
+   }
+
+   "playrandom"
+   {
+      "pitch"        "100"
+      "volume"    "0.5"
+      "soundlevel"   "SNDLVL_75dB"
+      "time"         "15,30"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/train_horn_1.wav"
+         "wave"   "ambient/machines/train_horn_2.wav"
+         "wave"   "ambient/machines/train_horn_3.wav"
+      }
+   }
+}
+
+//------------------------------------------------------------------------------------------
+//
+// This is needed because a misnamed soundscape was left in the BSP
+//
+"deadcity_05.catwalk"
+{
+   "dsp" "6"
+   "playsoundscape"
+   {
+      "name"   "deadcity_05.BombsiteBCatwalk"
+   }
+}
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BombsiteB"
+{
+   "dsp" "6"
+
+   "playrandom"
+   {
+      "pitch"        "100"
+      "volume"    "0.3"
+      "time"         "20,40"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/train_pass_1.wav"
+         "wave"   "ambient/machines/train_pass_2.wav"
+         "wave"   "ambient/machines/train_pass_3.wav"
+         "wave"   "ambient/machines/train_pass_far.wav"
+      }
+   }
+   "playrandom"
+   {
+      "pitch"        "100"
+      "volume"    "0.3"
+      "time"         "20,30"
+
+      "rndwave"
+      {
+         "wave"   "ambient/machines/train_horn_1.wav"
+         "wave"   "ambient/machines/train_horn_2.wav"
+         "wave"   "ambient/machines/train_horn_3.wav"
+      }
+   }
+   "playlooping"
+   {
+      "pitch"        "100"
+      "volume"    "0.25"
+
+      "wave"   "ambient/atmosphere/cargo_hold2.wav"
+   }
+
+
+   // Position 0: The bomb target
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.BombTarget"
+      "positionoverride"   "0"
+   }
+
+   // Position 1: Dumpster
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Dumpster"
+      "positionoverride"   "1"
+   }
+
+   // Position 2: Door
+   "playlooping"
+   {
+      "position"     "2"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "soundlevel"   "SNDLVL_60dB"
+
+      "wave" "ambient/atmosphere/factory_loop_1.wav"
+   }
+
+   // Position 3: Tanks
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank2"
+      "positionoverride"   "3"
+   }
+
+   // Position 4: Tank in the Side Alley
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "4"
+   }
+
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BackHall"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.25"
+      "pitch"     "100"
+      "wave"      "ambient/heavywind.wav"
+   }
+
+   // Position 0: Tank
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank1"
+      "positionoverride"   "0"
+   }
+
+   // Position 1: Tank
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Tank2"
+      "positionoverride"   "1"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+//
+// Basic room tone for entire "white brick" area
+//
+"deadcity_05.BrickRoom"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.1"
+      "pitch"     "100"
+      "wave"      "ambient/atmosphere/indoor1.wav"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.Restroom"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.BrickRoom"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.LockerRoom"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.BrickRoom"
+   }
+
+   // Positions are the air conditioning vents
+   // Although there is one for each vent, the system wont play the same wav
+   // from two positions at the same time.  Bummer.
+   // So, we'll use the middle one.
+   "playlooping"
+   {
+      "position"     "2"
+      "volume"    "0.6"
+      "soundlevel"   "SNDLVL_70dB"
+      "wave"         "ambient/machines/air_conditioner_loop_1.wav"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.BreakRoom"
+{
+   "dsp" "6"
+
+   "playlooping"
+   {
+      "volume"    "1.0"
+      "wave"         "ambient/atmosphere/engine_room.wav"
+      "soundlevel"   "SNDLVL_50dB"
+   }
+
+   // Position 0: Soda machine
+   "playlooping"
+   {
+      "position"     "0"
+      "volume"    "1.0"
+      "wave"         "ambient/misc/flour_light_loud.wav"
+      "soundlevel"   "SNDLVL_50dB"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.SniperNest"
+{
+   "dsp" "6"
+
+   // underlying area "tone"
+   "playlooping"
+   {
+      "volume" "0.4"
+      "pitch"     "100"
+      "wave"      "ambient/lightwind.wav"
+   }
+
+
+   // wind gusts (stronger up here on the roof)
+   "playrandom"
+   {
+      "time"      "15,30"
+      "volume" "0.3"
+      "pitch"     "90,110"
+
+      "rndwave"
+      {
+         "wave"      "ambient/windgust1.wav"
+         "wave"      "ambient/windgust2.wav"
+         "wave"      "ambient/windgust3.wav"
+      }
+   }
+
+
+   // Position 0: Large A/C unit
+   "playrandom"
+   {
+      "position"     "0"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "time"         "60,90"
+      "soundlevel"   "SNDLVL_75dB"
+
+      "rndwave"
+      {
+         "wave"         "ambient/machines/air_conditioner_cycle.wav"
+      }
+   }
+
+   // Position 1: A/C unit in back
+   "playlooping"
+   {
+      "position"     "1"
+      "volume"    "1.0"
+      "wave"         "ambient/machines/air_conditioner_loop_1.wav"
+      "soundlevel"   "SNDLVL_60dB"
+   }
+}
+
+
+//------------------------------------------------------------------------------------------
+"deadcity_05.Middle"
+{
+   "dsp" "6"
+
+   "playsoundscape"
+   {
+      "name" "deadcity_05.Outside"
+   }
+
+
+   // Position 0: Bio Tank 1
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.BombTarget"
+      "positionoverride"   "0"
+   }
+
+   // Position 1: Dumpster
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Dumpster"
+      "positionoverride"   "1"
+   }
+
+   // Position 2: Birds
+   "playsoundscape"
+   {
+      "name"            "deadcity_05.Birds"
+      "positionoverride"   "2"
+   }
+
+   // Position 3: Transformer
+   "playlooping"
+   {
+      "position"     "3"
+      "pitch"        "100"
+      "volume"    "0.8"
+      "soundlevel"   "SNDLVL_55dB"
+
+      "wave"   "ambient/machines/power_transformer_loop_1.wav"
+   }
+
+   // Position 4: Large A/C unit
+   "playrandom"
+   {
+      "position"     "4"
+      "pitch"        "100"
+      "volume"    "1.0"
+      "time"         "60,90"
+      "soundlevel"   "SNDLVL_75dB"
+      "rndwave"
+      {
+         "wave"         "ambient/machines/air_conditioner_cycle.wav"
+      }
+   }
+
+   // Position 5: A/C unit in back
+   "playlooping"
+   {
+      "position"     "5"
+      "volume"    "1.0"
+      "wave"         "ambient/machines/air_conditioner_loop_1.wav"
+      "soundlevel"   "SNDLVL_60dB"
+   }
+}

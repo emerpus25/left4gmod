@@ -1,0 +1,374 @@
+//Extras
+
+
+
+Criterion "IsNotSaidSmalltown01_path05" "worldSaidSmalltown01_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown01_path06" "worldSaidSmalltown01_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown01_path07" "worldSaidSmalltown01_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown01_path08" "worldSaidSmalltown01_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path01" "worldSaidsmalltown02_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path02" "worldSaidsmalltown02_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path03" "worldSaidsmalltown02_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path04" "worldSaidsmalltown02_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path05" "worldSaidsmalltown02_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path06" "worldSaidsmalltown02_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path07" "worldSaidsmalltown02_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidsmalltown02_path08" "worldSaidsmalltown02_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path01" "worldSaidSmalltown03_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path02" "worldSaidSmalltown03_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path03" "worldSaidSmalltown03_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path04" "worldSaidSmalltown03_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path05" "worldSaidSmalltown03_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path06" "worldSaidSmalltown03_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path07" "worldSaidSmalltown03_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path08" "worldSaidSmalltown03_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path09" "worldSaidSmalltown03_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path10" "worldSaidSmalltown03_path10" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path11" "worldSaidSmalltown03_path11" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path12" "worldSaidSmalltown03_path12" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path13" "worldSaidSmalltown03_path13" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path01" "worldSaidSmalltown04_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path02" "worldSaidSmalltown04_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path03" "worldSaidSmalltown04_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path04" "worldSaidSmalltown04_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path05" "worldSaidSmalltown04_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path06" "worldSaidSmalltown04_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path07" "worldSaidSmalltown04_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path08" "worldSaidSmalltown04_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path09" "worldSaidSmalltown04_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path10" "worldSaidSmalltown04_path10" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path01" "worldSaidSmalltown05_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path02" "worldSaidSmalltown05_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path03" "worldSaidSmalltown05_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path04" "worldSaidSmalltown05_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path05" "worldSaidSmalltown05_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown05_path06" "worldSaidSmalltown05_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path01" "worldSaidFarm01_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path02" "worldSaidFarm01_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path03" "worldSaidFarm01_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path04" "worldSaidFarm01_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path05" "worldSaidFarm01_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path06" "worldSaidFarm01_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path07" "worldSaidFarm01_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path08" "worldSaidFarm01_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path01" "worldSaidFarm02_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path02" "worldSaidFarm02_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path03" "worldSaidFarm02_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path04" "worldSaidFarm02_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path05" "worldSaidFarm02_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path06" "worldSaidFarm02_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path07" "worldSaidFarm02_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path08" "worldSaidFarm02_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path09" "worldSaidFarm02_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path01" "worldSaidFarm03_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path02" "worldSaidFarm03_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path03" "worldSaidFarm03_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path04" "worldSaidFarm03_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path05" "worldSaidFarm03_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path06" "worldSaidFarm03_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path07" "worldSaidFarm03_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path01" "worldSaidFarm04_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path02" "worldSaidFarm04_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path03" "worldSaidFarm04_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path04" "worldSaidFarm04_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path05" "worldSaidFarm04_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path06" "worldSaidFarm04_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path07" "worldSaidFarm04_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path08" "worldSaidFarm04_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path09" "worldSaidFarm04_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path01" "worldSaidFarm05_path01" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path02" "worldSaidFarm05_path02" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path03" "worldSaidFarm05_path03" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path04" "worldSaidFarm05_path04" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path05" "worldSaidFarm05_path05" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path08" "worldSaidFarm03_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown02_path09" "worldSaidSmalltown02_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown03_path14" "worldSaidSmalltown03_path14" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown04_path11" "worldSaidSmalltown04_path11" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm04_path10" "worldSaidFarm04_path10" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm01_path09" "worldSaidFarm01_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm02_path10" "worldSaidFarm02_path10" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path09" "worldSaidFarm03_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown01_path09" "worldSaidSmalltown01_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidSmalltown01_path10" "worldSaidSmalltown01_path10" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path06" "worldSaidFarm05_path06" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path07" "worldSaidFarm05_path07" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path08" "worldSaidFarm05_path08" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm05_path09" "worldSaidFarm05_path09" "!=1" "required" weight 0
+Criterion "IsNotSaidFarm03_path10" "worldSaidFarm03_path10" "!=1" "required" weight 0
+//##LEAVEHERE1##
+
+Criterion "IsSaidFarm05_path08" "worldSaidFarm05_path08" ">0" "required" 
+Criterion "IsSaidFarm05_path10" "worldSaidFarm05_path10" ">0" "required" 
+
+
+//Is Remarkable lists
+
+criterion "IsSmalltown01_path05"   "subject" "Smalltown01_path05"	  required
+criterion "IsSmalltown01_path06"   "subject" "Smalltown01_path06"	  required
+criterion "IsSmalltown01_path07"   "subject" "Smalltown01_path07"	  required
+criterion "IsSmalltown01_path08"   "subject" "Smalltown01_path08"	  required
+criterion "Issmalltown02_path01"   "subject" "smalltown02_path01"	  required
+criterion "Issmalltown02_path02"   "subject" "smalltown02_path02"	  required
+criterion "Issmalltown02_path03"   "subject" "smalltown02_path03"	  required
+criterion "Issmalltown02_path04"   "subject" "smalltown02_path04"	  required
+criterion "Issmalltown02_path05"   "subject" "smalltown02_path05"	  required
+criterion "Issmalltown02_path06"   "subject" "smalltown02_path06"	  required
+criterion "Issmalltown02_path07"   "subject" "smalltown02_path07"	  required
+criterion "Issmalltown02_path08"   "subject" "smalltown02_path08"	  required
+criterion "IsSmalltown03_path01"   "subject" "Smalltown03_path01"	  required
+criterion "IsSmalltown03_path02"   "subject" "Smalltown03_path02"	  required
+criterion "IsSmalltown03_path03"   "subject" "Smalltown03_path03"	  required
+criterion "IsSmalltown03_path04"   "subject" "Smalltown03_path04"	  required
+criterion "IsSmalltown03_path05"   "subject" "Smalltown03_path05"	  required
+criterion "IsSmalltown03_path06"   "subject" "Smalltown03_path06"	  required
+criterion "IsSmalltown03_path07"   "subject" "Smalltown03_path07"	  required
+criterion "IsSmalltown03_path08"   "subject" "Smalltown03_path08"	  required
+criterion "IsSmalltown03_path09"   "subject" "Smalltown03_path09"	  required
+criterion "IsSmalltown03_path10"   "subject" "Smalltown03_path10"	  required
+criterion "IsSmalltown03_path11"   "subject" "Smalltown03_path11"	  required
+criterion "IsSmalltown03_path12"   "subject" "Smalltown03_path12"	  required
+criterion "IsSmalltown03_path13"   "subject" "Smalltown03_path13"	  required
+criterion "IsSmalltown04_path01"   "subject" "Smalltown04_path01"	  required
+criterion "IsSmalltown04_path02"   "subject" "Smalltown04_path02"	  required
+criterion "IsSmalltown04_path03"   "subject" "Smalltown04_path03"	  required
+criterion "IsSmalltown04_path04"   "subject" "Smalltown04_path04"	  required
+criterion "IsSmalltown04_path05"   "subject" "Smalltown04_path05"	  required
+criterion "IsSmalltown04_path06"   "subject" "Smalltown04_path06"	  required
+criterion "IsSmalltown04_path07"   "subject" "Smalltown04_path07"	  required
+criterion "IsSmalltown04_path08"   "subject" "Smalltown04_path08"	  required
+criterion "IsSmalltown04_path09"   "subject" "Smalltown04_path09"	  required
+criterion "IsSmalltown04_path10"   "subject" "Smalltown04_path10"	  required
+criterion "IsSmalltown05_path01"   "subject" "Smalltown05_path01"	  required
+criterion "IsSmalltown05_path02"   "subject" "Smalltown05_path02"	  required
+criterion "IsSmalltown05_path03"   "subject" "Smalltown05_path03"	  required
+criterion "IsSmalltown05_path04"   "subject" "Smalltown05_path04"	  required
+criterion "IsSmalltown05_path05"   "subject" "Smalltown05_path05"	  required
+criterion "IsSmalltown05_path06"   "subject" "Smalltown05_path06"	  required
+criterion "IsFarm01_path01"   "subject" "Farm01_path01"	  required
+criterion "IsFarm01_path02"   "subject" "Farm01_path02"	  required
+criterion "IsFarm01_path03"   "subject" "Farm01_path03"	  required
+criterion "IsFarm01_path04"   "subject" "Farm01_path04"	  required
+criterion "IsFarm01_path05"   "subject" "Farm01_path05"	  required
+criterion "IsFarm01_path06"   "subject" "Farm01_path06"	  required
+criterion "IsFarm01_path07"   "subject" "Farm01_path07"	  required
+criterion "IsFarm01_path08"   "subject" "Farm01_path08"	  required
+criterion "IsFarm02_path01"   "subject" "Farm02_path01"	  required
+criterion "IsFarm02_path02"   "subject" "Farm02_path02"	  required
+criterion "IsFarm02_path03"   "subject" "Farm02_path03"	  required
+criterion "IsFarm02_path04"   "subject" "Farm02_path04"	  required
+criterion "IsFarm02_path05"   "subject" "Farm02_path05"	  required
+criterion "IsFarm02_path06"   "subject" "Farm02_path06"	  required
+criterion "IsFarm02_path07"   "subject" "Farm02_path07"	  required
+criterion "IsFarm02_path08"   "subject" "Farm02_path08"	  required
+criterion "IsFarm02_path09"   "subject" "Farm02_path09"	  required
+criterion "IsFarm03_path01"   "subject" "Farm03_path01"	  required
+criterion "IsFarm03_path02"   "subject" "Farm03_path02"	  required
+criterion "IsFarm03_path03"   "subject" "Farm03_path03"	  required
+criterion "IsFarm03_path04"   "subject" "Farm03_path04"	  required
+criterion "IsFarm03_path05"   "subject" "Farm03_path05"	  required
+criterion "IsFarm03_path06"   "subject" "Farm03_path06"	  required
+criterion "IsFarm03_path07"   "subject" "Farm03_path07"	  required
+criterion "IsFarm04_path01"   "subject" "Farm04_path01"	  required
+criterion "IsFarm04_path02"   "subject" "Farm04_path02"	  required
+criterion "IsFarm04_path03"   "subject" "Farm04_path03"	  required
+criterion "IsFarm04_path04"   "subject" "Farm04_path04"	  required
+criterion "IsFarm04_path05"   "subject" "Farm04_path05"	  required
+criterion "IsFarm04_path06"   "subject" "Farm04_path06"	  required
+criterion "IsFarm04_path07"   "subject" "Farm04_path07"	  required
+criterion "IsFarm04_path08"   "subject" "Farm04_path08"	  required
+criterion "IsFarm04_path09"   "subject" "Farm04_path09"	  required
+criterion "IsFarm05_path01"   "subject" "Farm05_path01"	  required
+criterion "IsFarm05_path02"   "subject" "Farm05_path02"	  required
+criterion "IsFarm05_path03"   "subject" "Farm05_path03"	  required
+criterion "IsFarm05_path04"   "subject" "Farm05_path04"	  required
+criterion "IsFarm05_path05"   "subject" "Farm05_path05"	  required
+criterion "IsFarm03_path08"   "subject" "Farm03_path08"	  required
+criterion "IsSmalltown02_path09"   "subject" "Smalltown02_path09"	  required
+criterion "IsSmalltown03_path14"   "subject" "Smalltown03_path14"	  required
+criterion "IsSmalltown04_path11"   "subject" "Smalltown04_path11"	  required
+criterion "IsFarm04_path10"   "subject" "Farm04_path10"	  required
+criterion "IsFarm01_path09"   "subject" "Farm01_path09"	  required
+criterion "IsFarm02_path10"   "subject" "Farm02_path10"	  required
+criterion "IsFarm03_path09"   "subject" "Farm03_path09"	  required
+criterion "IsSmalltown01_path09"   "subject" "Smalltown01_path09"	  required
+criterion "IsSmalltown01_path10"   "subject" "Smalltown01_path10"	  required
+criterion "IsFarm05_path06"   "subject" "Farm05_path06"	  required
+criterion "IsFarm05_path07"   "subject" "Farm05_path07"	  required
+criterion "IsFarm05_path08"   "subject" "Farm05_path08"	  required
+criterion "IsFarm05_path09"   "subject" "Farm05_path09"	  required
+criterion "IsFarm03_path10"   "subject" "Farm03_path10"	  required
+//##LEAVEHERE2##
+
+
+
+//Conversation stuff
+criterion "ConceptDontBeAnAss"   "concept" "DontBeAnAss"	  required
+criterion "ConceptRiversideIsDead"   "concept" "RiversideIsDead"	  required
+criterion "ConceptRiversideIsDeadA"   "concept" "RiversideIsDeadA"	  required
+criterion "ConceptRiversideIsDeadB"   "concept" "RiversideIsDeadB"	  required
+criterion "ConceptRiversideIsDeadSpecial1A"   "concept" "RiversideIsDeadSpecial1A"	  required
+criterion "ConceptRiversideIsDeadSpecial1B"   "concept" "RiversideIsDeadSpecial1B"	  required
+criterion "ConceptRiversideIsDeadSpecial1C"   "concept" "RiversideIsDeadSpecial1C"	  required
+criterion "ConceptRiversideIsDeadPlan"   "concept" "RiversideIsDeadPlan"	  required
+criterion "Conceptsmalltown02_path01a"   "concept" "smalltown02_path01a"	  required
+criterion "Conceptsmalltown02_path01b"   "concept" "smalltown02_path01b"	  required
+criterion "Conceptsmalltown02_path01c"   "concept" "smalltown02_path01c"	  required
+criterion "Conceptsmalltown02_path07a"   "concept" "smalltown02_path07a"	  required
+criterion "Conceptsmalltown02_path08a"   "concept" "smalltown02_path08a"	  required
+criterion "Conceptsmalltown04_path07a"   "concept" "smalltown04_path07a"	  required
+criterion "Conceptsmalltown04_path05a"   "concept" "smalltown04_path05a"	  required
+criterion "Conceptsmalltown05_path03a"   "concept" "smalltown05_path03a"	  required
+criterion "ConceptFarm01_path03a"   "concept" "Farm01_path03a"	  required
+criterion "ConceptFarm02_path01a"   "concept" "Farm02_path01a"	  required
+criterion "ConceptFarm02_path02a"   "concept" "Farm02_path02a"	  required
+criterion "ConceptFarm02_path02b"   "concept" "Farm02_path02b"	  required
+criterion "ConceptFarm03_path01a"   "concept" "Farm03_path01a"	  required
+criterion "ConceptFarm05_path07b"   "concept" "Farm05_path07b"	  required
+criterion "ConceptFarmVampiresb"   "concept" "FarmVampiresb"	  required
+criterion "ConceptFarmVampiresC"   "concept" "FarmVampiresC"	  required
+criterion "ConceptFarm05_path09C"   "concept" "Farm05_path09C"	  required
+criterion "ConceptNeedsHelpResponseLouisB2"   "concept" "NeedsHelpResponseLouisB2"	  required
+criterion "ConceptNeedsHelpResponseLouisC2"   "concept" "NeedsHelpResponseLouisC2"	  required
+
+criterion "IsWithOne"	"NumberOfTeamAlive"	"2"		required
+criterion "IsAllAlive"	"NumberOfTeamAlive"	"4"		required
+
+criterion "ConceptRespondAffirmative"   "concept" "RespondAffirmative"	  required
+criterion "ConceptBridgeReadyToCross"   "concept" "BridgeReadyToCross"	  required
+
+
+criterion "NotSaidFarm01_TracksBelow" "worldSaidFarm01_TracksBelow" "<1" required
+criterion "NotSaidFarm02_TracksBelow" "worldSaidFarm02_TracksBelow" "<1" required
+
+
+criterion "RemarkableReadyToGo" "worldRemarkableReadyToGo" "1" required
+criterion "NotRemarkableBlocked" "worldRemarkableBlocker" "<1" required
+
+//Smalltown 01
+//05 - tunnel entrance
+//06 - tunnel middle deathtrap
+//07 - tunnel blocked
+//08 - through here door at blocked tunnel point
+//09 - ***Safe house ahead (1000)***
+//10 - Deer Sign
+
+//Smalltown 02
+//09 - ***Safe house ahead (1000)***
+
+
+
+//Smalltown 03
+//01 - Entrance to trainyard
+//02 - Middle of trainyard
+//03 - Trainyard Fence
+//04 - Bottom of trainyard stairs
+//05 - Top of Trainyard Stairs
+//06 - Top of train to cross fence
+//07 - Stick to road
+//08 - Riverside sign
+//09 - Burning bus
+//10 - House
+//11 - Riverside is quiet
+//12 - Church
+//13 - Church fallback
+//14 - ***Safe house ahead***
+
+
+//Smalltown 04
+//01 - *Riverside is a bust
+//02 - *Riverside is a bust (safety)
+//03 - *Abandoned barricade
+//04 - *Fence (bill ruminates)
+//05 - *Van you have to jump on top of
+//06 - Cubicles
+//07 - *Main Street	
+//08 - *Big ass machine gun
+//09 - *Barricade #2
+//10 - *Stairs
+//11 - ***Safehouse Ahead***
+//12 - 
+//13 - 
+
+//Smalltown 05
+//01 - *House
+//02 - *Wide open
+//03 - *Get to the river through here
+//04 - *I hate vans (in parking lot)
+//05 - *I hate vans (right after safe room)
+//06 - *door leading out of house
+//07 - 
+//08 - 
+//09 - 
+//10 - 
+//11 - 
+//12 - 
+//13 - 
+
+
+
+//Farm 01
+//01 - *Woods comment
+//02 - *Bridge
+//03 - *Trailer
+//04 - *Tracks from above #1
+//05 - *Tracks from above #2
+//06 - *Tracks from above #3
+//07 - *Tracks from above #4
+//08 - *Tracks from above #5
+//09 - ***Safehouse Ahead (1500)***
+
+//Farm 02
+//01 - *Going down stairs
+//02 - *Window overlooking tracks 1
+//03 - *Window overlooking tracks 2
+//04 - *Window overlooking tracks 3
+//05 - *Window overlooking tracks 4
+//06 - *Platform leading down to ground floor of wheelhouse
+//07 - "Through here" door
+//08 - *Train tunnel entrance
+//09 - *Ladder up and over train car
+//10 - ***safehouse ahead! (400)***
+
+//Farm 03
+//01 - *In tunnels after safe room
+//02 - *Emerging from tunnel into woody area
+//03 - *Door from woody area back into tunnel
+//04 - *Find tracks again
+//05 - *Find tracks again (safety)
+//06 - *Tracks Are Blocked
+//07 - *Dead Cow
+//08 - Bridge that gets knocked down
+//09 - ***Safehouse ahead! (400)***
+//10 - Go up the bridge (after knocked down)
+
+//Farm 04
+//01 - *Barn
+//02 - *Tracks 1
+//03 - *Tracks 2
+//04 - *Inside building (to gate track speech)
+//05 - *Outside building (to gate track speech)
+//06 - *Blocked track
+//07 - *Stairs up
+//08 - *Through here!
+//09 - ***Caboose! (safe house ahead!)***
+//10 - *Lawnmower Carnage!
+
+
+//Farm 05
+//01 - Tracks Blocked
+//02 - Ladder up train car!
+//03 - Cornfield 1
+//04 - Cornfield 2
+//05 - Cornfield 3
+//06 - Farm House
+//07 - Radio
+//08 - First Military Outpost sign
+//09 - Second Military Outpost sign (right at entrance to cornfield)
+//10 - Military Outpost Sign next to path08
+
+
+
+
+
+
