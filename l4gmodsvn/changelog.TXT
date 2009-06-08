@@ -157,11 +157,20 @@ SVN Revision 32 - SRDDonkey (!MAJOR UPDATE!)
 -Added Survivors and Infected Models.
 -You can now be in-game!
 --------------------------
-June 6, 2009
+June 7, 2009
 SVN Revision 33 - SRDDonkey
 --------------------------
 -Modified "Left4Gmod.exe" by changing it's icon.
 -Deleted Left4Gmod Icon file. (not needed anymore)
+--------------------------
+June 7, 2009
+SVN Revision 40 - SRDDonkey
+--------------------------
+-Modified "buttons_32.vbf" file to real one.
+-Added "gfx" folder with gfx files.
+-Modified logo on Main Menu background.
+-Fixed more "missing material" errors.
+-Modified some of the Main Menu.
 --------------------------
 
 
