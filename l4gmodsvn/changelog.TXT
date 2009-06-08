@@ -172,5 +172,11 @@ SVN Revision 40 - SRDDonkey
 -Fixed more "missing material" errors.
 -Modified some of the Main Menu.
 --------------------------
+June 8, 2009
+SVN Revision 41 - SRDDonkey
+--------------------------
+-Added more missing textures.
+-Deleted Left4Gmod Icon file. (for real this time lol)
+--------------------------
 
 
