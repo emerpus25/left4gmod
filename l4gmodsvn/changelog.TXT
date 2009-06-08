@@ -178,5 +178,19 @@ SVN Revision 41 - SRDDonkey
 -Added more missing textures.
 -Deleted Left4Gmod Icon file. (for real this time lol)
 --------------------------
+June 8, 2009
+SVN Revision 42 - Mapper Bot
+--------------------------
+-Added Game Startup Music as a test.
+-Added more missing materials.
+-Added Basic Sounds.
+-Added commands to execute in "autoexec.cfg". (To prevent in-game crashing, type "nb_delete_all" in console. This will delete the bots) 
+--------------------------
+June 8, 2009
+SVN Revision 43 - Mapper Bot
+--------------------------
+-Changed Background file and added Widescreen version.
+-Added more missing materials.
+--------------------------
 
 
