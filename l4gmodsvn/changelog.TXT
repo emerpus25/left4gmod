@@ -200,5 +200,14 @@ SVN Revision 44 - Mapper Bot
 -Added materials for models.
 -Changed Default Playername to "Mingebag".
 --------------------------
+June 9, 2009
+SVN Revision 46 - Mapper Bot
+--------------------------
+-Removed "anim_" and "gestures_" files due to them crashing the game.
+-Added materials for models for real this time lol.
+-Modified "steam.inf" to display Revision Version that you currently have.
+-Removed Startup Music.
+-Fixed Purple and Black Error Sign.
+--------------------------
 
 
