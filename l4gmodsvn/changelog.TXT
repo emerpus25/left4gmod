@@ -192,5 +192,13 @@ SVN Revision 43 - Mapper Bot
 -Changed Background file and added Widescreen version.
 -Added more missing materials.
 --------------------------
+June 8, 2009
+SVN Revision 44 - Mapper Bot
+--------------------------
+-Added alot of missing materials that were found in developer mode.
+-YOU CAN SEE NOW!
+-Added materials for models.
+-Changed Default Playername to "Mingebag".
+--------------------------
 
 
